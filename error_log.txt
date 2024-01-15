@@ -1,0 +1,71 @@
+[14-Jan-2024 12:00:16 Europe/Berlin] File opened
+[14-Jan-2024 12:06:11 Europe/Berlin] File opened
+[14-Jan-2024 12:14:00 Europe/Berlin] File opened
+[14-Jan-2024 12:14:00 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function addCourse(), 0 passed in C:\xampp\htdocs\lecture_scheduling\operations.php on line 16 and exactly 4 expected in C:\xampp\htdocs\lecture_scheduling\operations.php:52
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 52
+[14-Jan-2024 12:14:31 Europe/Berlin] File opened
+[14-Jan-2024 12:14:31 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function addCourse(), 0 passed in C:\xampp\htdocs\lecture_scheduling\operations.php on line 16 and exactly 4 expected in C:\xampp\htdocs\lecture_scheduling\operations.php:52
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 52
+[14-Jan-2024 12:16:52 Europe/Berlin] File opened
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 58
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Warning:  Undefined variable $name in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Warning:  Undefined variable $level in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Warning:  Undefined variable $description in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Warning:  Undefined variable $image in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:61
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:16:55 Europe/Berlin] File opened
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 58
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Warning:  Undefined variable $name in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Warning:  Undefined variable $level in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Warning:  Undefined variable $description in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Warning:  Undefined variable $image in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:16:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:61
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:18:13 Europe/Berlin] File opened
+[14-Jan-2024 12:18:15 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 58
+[14-Jan-2024 12:18:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:61
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:19:06 Europe/Berlin] File opened
+[14-Jan-2024 12:19:08 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 58
+[14-Jan-2024 12:19:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:61
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:20:35 Europe/Berlin] File opened
+[14-Jan-2024 12:20:37 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 60
+[14-Jan-2024 12:20:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:63
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 63
+[14-Jan-2024 12:21:41 Europe/Berlin] File opened
+[14-Jan-2024 12:21:41 Europe/Berlin] File opened
+[14-Jan-2024 12:21:43 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:21:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:64
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 64
+[14-Jan-2024 12:21:44 Europe/Berlin] PHP Warning:  error_log(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lecture_scheduling\operations.php on line 61
+[14-Jan-2024 12:21:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\lecture_scheduling\operations.php:64
+Stack trace:
+#0 C:\xampp\htdocs\lecture_scheduling\operations.php(16): addCourse()
+#1 {main}
+  thrown in C:\xampp\htdocs\lecture_scheduling\operations.php on line 64
