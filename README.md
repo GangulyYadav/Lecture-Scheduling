@@ -67,6 +67,7 @@ This module provides a lecture scheduling system with separate panels for admini
 |-- instructor
 |-- dashboard.php
 |-- other files...
+```
 
 ## Requirements
 
